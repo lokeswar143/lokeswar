@@ -1,2 +1,2 @@
 # lokeswar
-This is a python programming,which solves the 8puzzle.
+This is a html program. Which is used to genetat the front end of the application.

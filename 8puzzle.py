@@ -54,7 +54,7 @@ def printMatrix(mat):
 def isSafe(x, y):
 	return x >= 0 and x < n and y >= 0 and y < n
 def printPath(root):
-	if root == None:
+	if root==None:
 		return
 	printPath(root.parent)
 	printMatrix(root.mat)
